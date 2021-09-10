@@ -1,4 +1,5 @@
 # Sorting Visualization
+https://ritikkadian.github.io/Sorting-Algo-Visualizer/
 ### This is a simple visualization project made using javascript 
 - Bubble Sort 
 - Selection Sort
